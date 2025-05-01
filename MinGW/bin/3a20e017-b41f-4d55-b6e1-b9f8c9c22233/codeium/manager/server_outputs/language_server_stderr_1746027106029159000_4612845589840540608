@@ -1,0 +1,11 @@
+2025/04/30 23:31:46 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+I0430 23:31:47.408896 20792 main.go:583] Setting GOMAXPROCS to 4
+I0430 23:31:47.600143 20792 main.go:798] Starting language server process with pid 20792
+I0430 23:31:47.601807 20792 server.go:272] Language server will attempt to listen on host 127.0.0.1
+I0430 23:31:47.606780 20792 server.go:279] Language server listening on random port at 24888
+2025/04/30 23:31:47 [proxy.Provider.readWinHttpProxy] No proxy discovered via AutoDetect: winapi error #12180
+I0430 23:31:51.638404 20792 web_server.go:262] Chat Web Server listening at ws://127.0.0.1:24898
+I0430 23:31:53.085680 20792 server.go:938] Local search is enabled, will index local files.
+I0430 23:31:53.086247 20792 server.go:942] Using 3 indexer workers
+I0430 23:31:53.374006 20792 server.go:1095] Child process attempting to acquire lock file C:\Users\Saidi\OneDrive\Documents\Semeter4\Pemerograman_Web\Microservice\MinGW\bin\3a20e017-b41f-4d55-b6e1-b9f8c9c22233\codeium\manager/locks/child_lock_1746027106029159000_2792141424103642675
+I0430 23:31:53.376536 20792 server.go:1103] Child process acquired lock file C:\Users\Saidi\OneDrive\Documents\Semeter4\Pemerograman_Web\Microservice\MinGW\bin\3a20e017-b41f-4d55-b6e1-b9f8c9c22233\codeium\manager/locks/child_lock_1746027106029159000_2792141424103642675
